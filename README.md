@@ -62,10 +62,3 @@ Syn AMP is an audio editing tool designed for quick and efficient manipulation o
 
 To use the Synthesized Audio Software Suite, simply clone the repository or download the latest release. Ensure you have Python and Pygame installed on your system. Run `Syn MSP` for the digital piano functionality and `Syn AMP` for audio file manipulation.
 
-## Contribution
-
-Contributions to the Synthesized Audio Software Suite are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
-
----
-
-This `README.md` provides a concise overview of the suite and its applications, detailing their functionality, features, and how users can interact with them through keybinds. Adjust the content as necessary to fit the final implementation details and user interface of your applications.
