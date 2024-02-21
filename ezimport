@@ -8,7 +8,7 @@ def main():
         "key_mappings": {}
     }
 
-    print("Welcome to the JSON Configuration Creator for Syn MSP!")
+    print("Welcome to ezImport for Syn MK!")
     config["title"] = input("Enter the title of your configuration: ")
     config["description"] = input("Enter a description for your configuration: ")
     config["author"] = input("Enter the author's name: ")
