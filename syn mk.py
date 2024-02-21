@@ -12,7 +12,7 @@ class PianoApp:
         self.channels = []
         self.key_buttons = {}  # Track key buttons for updates
 
-        self.grid_size = (5, 5)  # Define grid size for keys
+        self.grid_size = (5, 3)  # Define grid size for keys
 
         self.root.configure(bg="#121212")
         self.label_fg = "#FFFFFF"
