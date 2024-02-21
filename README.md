@@ -1,4 +1,4 @@
-# Synthesized Audio Software Suite
+# Synthesized Audio Suite
 
 The Synthesized Audio Software Suite is a collection of interactive applications designed for audio manipulation and music creation, including Syn Music Keys (Syn MK) and Syn Audio Manipulation Program (Syn AMP).
 
