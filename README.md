@@ -1,6 +1,6 @@
-# Synthesized Audio Software Suite
+# Synthesized Audio Suite
 
-The Synthesized Audio Software Suite is a collection of interactive applications designed for audio manipulation and music creation, including Syn Music Synthesis Program (Syn MSP) and Syn Audio Manipulation Program (Syn AMP).
+The Synthesized Audio Software Suite is a collection of interactive applications designed for audio manipulation and music creation, including Syn Music Keys (Syn MK) and Syn Audio Manipulation Program (Syn AMP).
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ Before you start using the Synthesized Audio Software Suite, ensure you have the
   pip install pygame
   ```
 
-- **FFMPEG:** Both Syn MSP and Syn AMP make use of FFMPEG for handling various audio formats and operations. You must have FFMPEG installed and its path added to your system's environment variables for the software suite to function correctly. Follow these steps to set up FFMPEG:
+- **FFMPEG:** Both Syn MK and Syn AMP make use of FFMPEG for handling various audio formats and operations. You must have FFMPEG installed and its path added to your system's environment variables for the software suite to function correctly. Follow these steps to set up FFMPEG:
 
   1. Download FFMPEG from [ffmpeg.org](https://ffmpeg.org/download.html).
   2. Extract the downloaded archive to a location on your system (e.g., `C:\FFMPEG`).
@@ -23,7 +23,7 @@ Before you start using the Synthesized Audio Software Suite, ensure you have the
 
 ### Overview
 
-Syn MSP is a digital piano application that allows users to play and manipulate synthesized sounds using their computer keyboard. It provides a user-friendly interface for adding sound samples and playing them in real-time.
+Syn MK is a digital piano application that allows users to play and manipulate synthesized sounds using their computer keyboard. It provides a user-friendly interface for adding sound samples and playing them in real-time.
 
 ### Features
 
@@ -48,24 +48,17 @@ Syn AMP is an audio editing tool designed for quick and efficient manipulation o
 
 - **Speed Adjustment:** Modify the playback speed of audio files without altering the pitch.
 - **Pitch Adjustment:** Change the pitch of audio files without affecting the playback speed.
-- **Export with Encryption:** Generate an encrypted code for the exported audio file for secure sharing or importing into Syn MSP.
+- **Export with Encryption:** Generate an encrypted code for the exported audio file for secure sharing or importing into Syn MK.
 - **Clipboard Support:** Encrypted codes are automatically copied to the clipboard for easy sharing.
 
 ### Keybinds
 
 - **Browse Button:** Open a dialog to select an audio file for manipulation.
-- **Export to S:MSP Button:** Apply changes and export the audio file for use in Syn MSP, including copying an encrypted code to the clipboard.
+- **Export to S:MK Button:** Apply changes and export the audio file for use in Syn MK, including copying an encrypted code to the clipboard.
 
 ---
 
 ## Getting Started
 
-To use the Synthesized Audio Software Suite, simply clone the repository or download the latest release. Ensure you have Python and Pygame installed on your system. Run `Syn MSP` for the digital piano functionality and `Syn AMP` for audio file manipulation.
+To use the Synthesized Audio Software Suite, simply clone the repository or download the latest release. Ensure you have Python and Pygame installed on your system. Run `Syn MK` for the digital piano functionality and `Syn AMP` for audio file manipulation.
 
-## Contribution
-
-Contributions to the Synthesized Audio Software Suite are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
-
----
-
-This `README.md` provides a concise overview of the suite and its applications, detailing their functionality, features, and how users can interact with them through keybinds. Adjust the content as necessary to fit the final implementation details and user interface of your applications.
